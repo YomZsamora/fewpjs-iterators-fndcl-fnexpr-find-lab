@@ -7,5 +7,3 @@ let superbowlWin = superbowlWinRecord => {
 		return undefined
 	}
 }
-
-
